@@ -1,2 +1,0 @@
-# ziyuukennkyuutannkenntai
-自由研究探検隊公式webページ
