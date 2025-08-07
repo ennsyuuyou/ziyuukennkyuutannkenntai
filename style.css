@@ -1,9 +1,20 @@
-rou
+.h1
 {
-	color: red;
+	font-family: "Comic Sans MS", cursive;
+}
+.simple-linear {
+  background: linear-gradient(wheat, white);
+}
+
+.rou
+{
+	color: white;
+	font-family: "游ゴシック体", "Yu Gothic", sans-serif;
+	font-size: 20px;
+	-webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.3);
 	text-shadow:
-		-1px -1px 0 white,
-		1px -1px 0 white,
-		-1px  1px 0 white,
-		1px 1px 0 white;
+		-1px -1px 0 rgba(255, 30, 0, 0.6),
+		1px -1px 0 rgba(255, 30, 0, 0.6),
+		-1px  1px 0 rgba(255, 30, 0, 0.6),
+		1px 1px 0 rgba(255, 30, 0, 0.6);
 }
